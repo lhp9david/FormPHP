@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <form action="resume.php" method="get">
+  <form action="resume.php" method="post">
 
     <div>
       <label for="name">Votre nom: </label>
